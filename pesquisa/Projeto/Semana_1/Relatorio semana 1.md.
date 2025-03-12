@@ -1,1 +1,42 @@
-# Pesquisa e Referencial Teórico
+PESQUISA E REFERENCIAL TEORICO
+Evolução das Arquiteturas de Hardware
+A evolução das arquiteturas de hardware pode ser dividida em várias gerações, cada uma com características específicas. Aqui está um resumo:
+
+Primeira Geração (1940-1956):
+Exemplos: ENIAC, Harvard Mark I.
+Características:
+Uso de válvulas termiônicas.
+Programação feita diretamente em linguagem de máquina.
+Tamanho enorme e consumo de energia elevado.
+
+Segunda Geração (1956-1963):
+Exemplos: IBM 1401, UNIVAC 1107.
+Características:
+Substituição das válvulas por transistores.
+Menor tamanho e consumo de energia.
+SuRgimento de linguagens de programação de alto nível (ex.: FORTRAN, COBOL).
+
+Terceira Geração (1964-1971):
+Exemplos: IBM System/360, PDP-8.
+Características:
+Uso de circuitos integrados (chips).
+Computadores mais compactos e eficientes.
+Surgimento de sistemas operacionais.
+
+Quarta Geração (1971-1980):
+Exemplos: Apple II, IBM PC.
+Características:
+Uso de microprocessadores.
+Popularização dos computadores pessoais (PCs).
+Surgimento de interfaces gráficas (ex.: Windows, Macintosh).
+
+Quinta Geração (1980 até hoje):
+Exemplos: Computadores modernos, smartphones, supercomputadores.
+Características:
+Uso de processadores multicore e GPUs.
+Inteligência artificial e aprendizado de máquina.
+Computação em nuvem e IoT (Internet das Coisas).
+
+[Historia da computação](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_computa%C3%A7%C3%A3o)
+
+
