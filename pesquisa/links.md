@@ -6,7 +6,14 @@
 - [Evolução do Hardware - Adrenaline](https://adrenaline.com.br)  
 
 
-
+| Característica          | Arquitetura de Von Neumann       | Arquitetura Harvard            | Arquitetura RISC               |
+|-------------------------|----------------------------------|--------------------------------|--------------------------------|
+| **Barramento**          | Único (dados e instruções)      | Separado (dados e instruções)  | Depende da implementação       |
+| **Memória**             | Unificada (programa e dados)    | Separada (programa e dados)    | Unificada ou separada          |
+| **Conjunto de Instruções** | Complexo e variado             | Complexo e variado             | Reduzido e otimizado           |
+| **Velocidade**          | Limitada pelo gargalo de Von Neumann | Mais rápida (barramentos separados) | Alta (instruções simples)      |
+| **Custo**               | Baixo                           | Alto                           | Moderado                       |
+| **Aplicações**          | Computadores de uso geral       | Sistemas embarcados, DSPs      | Dispositivos móveis, servidores|
 
 
 
