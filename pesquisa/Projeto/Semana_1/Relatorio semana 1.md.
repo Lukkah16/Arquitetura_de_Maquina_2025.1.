@@ -3,7 +3,9 @@ Evolução das Arquiteturas de Hardware
 A evolução das arquiteturas de hardware pode ser dividida em várias gerações, cada uma com características específicas.
 O aquivo "Resumo de gerações.pdf" Tem um resumo das mesmas.
 
-
-
-
+Arquitetura de Von Neumann
+A Arquitetura de Von Neumann, proposta por John von Neumann na década de 1940, é a base da maioria dos computadores modernos. 
+Ela descreve um sistema onde a unidade de processamento (CPU), a memória e os dispositivos de entrada/saída compartilham um mesmo barramento para comunicação.
+A memória armazena tanto dados quanto instruções de programa, e a CPU executa as operações buscando essas instruções e dados da memória, processando-os sequencialmente.
+Essa arquitetura é caracterizada por seu fluxo linear de execução e pela separação entre hardware e software, permitindo flexibilidade e programação genérica.
 
